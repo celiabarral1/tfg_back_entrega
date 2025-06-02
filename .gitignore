@@ -136,6 +136,21 @@ ENV/
 env.bak/
 venv.bak/
 
+# Modelos y pesos grandes 
+resources/models/
+*.pkl
+
+# Modelo .onnx
+data/models/w2v2_extractor
+*.onnx
+
+# Librerías pesadas de terceros
+**/site-packages/
+*.dll
+*.lib
+*.so
+*.dylib
+
 # Spyder project settings
 .spyderproject
 .spyproject
