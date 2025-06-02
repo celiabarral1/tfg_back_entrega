@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./app/emotions-inference/build/lib",
+        "./app/emotions-inference/module-inference",
+        "./app/emotions-inference copy"
+    ], 
+    "python.terminal.activateEnvironment": false
+}

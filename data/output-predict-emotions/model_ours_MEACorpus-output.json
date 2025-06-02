@@ -1,0 +1,420 @@
+[
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.48672689852891143
+            },
+            {
+                "emo": "anger",
+                "prob": 0.19846973680787616
+            },
+            {
+                "emo": "neutral",
+                "prob": 0.13533861839212477
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.42547768354415894,
+            "arousal": 0.5587406754493713,
+            "dominance": 0.5849161148071289
+        },
+        "worker_id": "1"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.37910443782806397
+            },
+            {
+                "emo": "anger",
+                "prob": 0.22998991078800626
+            },
+            {
+                "emo": "neutral",
+                "prob": 0.15827483400288556
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.5020508170127869,
+            "arousal": 0.5820714831352234,
+            "dominance": 0.5611137747764587
+        },
+        "worker_id": "1"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "anger",
+                "prob": 0.349097583382218
+            },
+            {
+                "emo": "disgust",
+                "prob": 0.2666284725842652
+            },
+            {
+                "emo": "sadness",
+                "prob": 0.1554019582492334
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.5942587852478027,
+            "arousal": 0.5017532110214233,
+            "dominance": 0.5491299033164978
+        },
+        "worker_id": "1"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.3463220362751572
+            },
+            {
+                "emo": "anger",
+                "prob": 0.2425520571955928
+            },
+            {
+                "emo": "sadness",
+                "prob": 0.166803800728586
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.44500356912612915,
+            "arousal": 0.6396701335906982,
+            "dominance": 0.6441118717193604
+        },
+        "worker_id": "2"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.49487687932120433
+            },
+            {
+                "emo": "anger",
+                "prob": 0.1516013973178687
+            },
+            {
+                "emo": "neutral",
+                "prob": 0.1269020696674232
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.5570536851882935,
+            "arousal": 0.6409702301025391,
+            "dominance": 0.6283870935440063
+        },
+        "worker_id": "2"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "anger",
+                "prob": 0.3657181801619353
+            },
+            {
+                "emo": "disgust",
+                "prob": 0.27281165643974586
+            },
+            {
+                "emo": "neutral",
+                "prob": 0.12724672111406646
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.4215041399002075,
+            "arousal": 0.5727931261062622,
+            "dominance": 0.6054346561431885
+        },
+        "worker_id": "2"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.3858504625603005
+            },
+            {
+                "emo": "sadness",
+                "prob": 0.190964924759335
+            },
+            {
+                "emo": "anger",
+                "prob": 0.17014853428359386
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.5570643544197083,
+            "arousal": 0.7181985974311829,
+            "dominance": 0.7161411643028259
+        },
+        "worker_id": "3"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.41699996330119943
+            },
+            {
+                "emo": "anger",
+                "prob": 0.1796827530640143
+            },
+            {
+                "emo": "sadness",
+                "prob": 0.16329700867335004
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.46260514855384827,
+            "arousal": 0.5769165754318237,
+            "dominance": 0.5565915703773499
+        },
+        "worker_id": "3"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "anger",
+                "prob": 0.37923590218579334
+            },
+            {
+                "emo": "disgust",
+                "prob": 0.23604099291342276
+            },
+            {
+                "emo": "neutral",
+                "prob": 0.14515911265103906
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.605068564414978,
+            "arousal": 0.5261327624320984,
+            "dominance": 0.5597882866859436
+        },
+        "worker_id": "3"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.4095436663097805
+            },
+            {
+                "emo": "anger",
+                "prob": 0.18911718103620742
+            },
+            {
+                "emo": "sadness",
+                "prob": 0.1441842607436357
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.6043698191642761,
+            "arousal": 0.613463282585144,
+            "dominance": 0.6239879131317139
+        },
+        "worker_id": "4"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.44137919699704203
+            },
+            {
+                "emo": "neutral",
+                "prob": 0.14592909360856368
+            },
+            {
+                "emo": "anger",
+                "prob": 0.1456248413854175
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.4857673943042755,
+            "arousal": 0.5344635844230652,
+            "dominance": 0.553794264793396
+        },
+        "worker_id": "4"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "anger",
+                "prob": 0.34223870056646843
+            },
+            {
+                "emo": "disgust",
+                "prob": 0.2408165467447705
+            },
+            {
+                "emo": "neutral",
+                "prob": 0.1669020388137411
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.4119703769683838,
+            "arousal": 0.45684558153152466,
+            "dominance": 0.5185497999191284
+        },
+        "worker_id": "4"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.2686731818870262
+            },
+            {
+                "emo": "sadness",
+                "prob": 0.2622800791705096
+            },
+            {
+                "emo": "anger",
+                "prob": 0.18380115614997017
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.5054723620414734,
+            "arousal": 0.5684741735458374,
+            "dominance": 0.5746723413467407
+        },
+        "worker_id": "6"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.27213252133793303
+            },
+            {
+                "emo": "anger",
+                "prob": 0.22108626343585827
+            },
+            {
+                "emo": "neutral",
+                "prob": 0.1846286671360334
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.4467313289642334,
+            "arousal": 0.5283836722373962,
+            "dominance": 0.5572757720947266
+        },
+        "worker_id": "6"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.3642897948512325
+            },
+            {
+                "emo": "anger",
+                "prob": 0.18317185552031903
+            },
+            {
+                "emo": "happiness",
+                "prob": 0.16801782766977946
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.5202061533927917,
+            "arousal": 0.6523228287696838,
+            "dominance": 0.6481236219406128
+        },
+        "worker_id": "6"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.44867800421184967
+            },
+            {
+                "emo": "anger",
+                "prob": 0.1563378717943474
+            },
+            {
+                "emo": "neutral",
+                "prob": 0.14677626666923363
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.3201547861099243,
+            "arousal": 0.5597479343414307,
+            "dominance": 0.5583598613739014
+        },
+        "worker_id": "6"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "anger",
+                "prob": 0.2908003137729786
+            },
+            {
+                "emo": "disgust",
+                "prob": 0.29049220659114694
+            },
+            {
+                "emo": "neutral",
+                "prob": 0.14544546171194978
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.5558827519416809,
+            "arousal": 0.5498721599578857,
+            "dominance": 0.5798337459564209
+        },
+        "worker_id": "5"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.4902012378198129
+            },
+            {
+                "emo": "neutral",
+                "prob": 0.15423041038077187
+            },
+            {
+                "emo": "anger",
+                "prob": 0.12725402710062486
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.5416055917739868,
+            "arousal": 0.5881942510604858,
+            "dominance": 0.5779439806938171
+        },
+        "worker_id": "5"
+    },
+    {
+        "emocategoric": [
+            {
+                "emo": "disgust",
+                "prob": 0.33642708623850787
+            },
+            {
+                "emo": "anger",
+                "prob": 0.3014547151989407
+            },
+            {
+                "emo": "neutral",
+                "prob": 0.16466010981411847
+            }
+        ],
+        "emodimensional": {
+            "valence": 0.4335077106952667,
+            "arousal": 0.5112531185150146,
+            "dominance": 0.5469685792922974
+        },
+        "worker_id": "5"
+    }
+]
