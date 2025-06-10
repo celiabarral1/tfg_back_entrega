@@ -170,7 +170,6 @@ dependencies:
       - murmurhash==1.0.11
       - networkx==3.4.2
       - nltk==3.9.1
-      - normalizr==66.0.2
       - num2words==0.5.14
       - numba==0.58.1
       - numpy==1.23.5
